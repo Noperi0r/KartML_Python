@@ -5,5 +5,5 @@ shuffle 금지
 데이터 증가시키기
 Regression 문제. 위치변화량, 회전변화량
 
-
-★ output은 normalization 하면 안될 것 같음
+★ output은 normalization 하면 안될 것 같음 >> 동시에 회전 변하량 가중치 1e+2 추가.
+batch size 수정
