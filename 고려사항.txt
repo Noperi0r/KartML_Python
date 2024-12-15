@@ -1,0 +1,9 @@
+Feature scaling 
+- cm/s to m/s. min max scaling
+infeasible feature 제거 
+shuffle 금지
+데이터 증가시키기
+Regression 문제. 위치변화량, 회전변화량
+
+
+★ output은 normalization 하면 안될 것 같음
